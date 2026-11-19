@@ -1,0 +1,6 @@
+streamlit>=1.35.0
+gTTS>=2.5.0
+edge-tts>=6.1.12
+thefuzz>=0.22.1
+SpeechRecognition>=3.10.0
+requests>=2.31.0
